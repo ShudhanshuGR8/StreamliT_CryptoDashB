@@ -1,5 +1,5 @@
 #importing neccessary libraries
-from turtle import width
+#from turtle import width
 import yfinance as yf
 import streamlit as st
 from PIL  import Image
